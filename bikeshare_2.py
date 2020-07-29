@@ -216,6 +216,7 @@ def main():
         user_stats(df)
 
         print("first change by 4.C~D")
+        print("second change by 4.C~D")
                 
         showing_5 = input('\nWould you like to see first 5 rows from raw data? Enter yes or no.\n')
         if showing_5.lower() == 'yes':
